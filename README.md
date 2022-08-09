@@ -1,13 +1,13 @@
-## Install Next js
-yarn create next-app
-# or
-npm create next-app
+# Install Next js (console)
+-yarn create next-app
+or
+-npm create next-app
 
-## Start aplication
-npm run dev
-# or
-yarn dev
+# Start aplication (console)
+-npm run dev
+or
+-yarn dev
 
-## Use next link
-#import Link from 'next/link'
+# Use next link (code)
+import Link from 'next/link'
 
