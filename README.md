@@ -1,6 +1,6 @@
 # Install Next js (console)
 -yarn create next-app
-or
+<br/>
 -npm create next-app
 
 # Start aplication (console)
